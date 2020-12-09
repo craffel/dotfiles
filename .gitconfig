@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+name = Colin Raffel
+email = craffel@gmail.com
+[credential]
+	helper = cache
+[core]
+	editor = /usr/bin/vim
